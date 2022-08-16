@@ -4,12 +4,12 @@ After powering up the Kioptrix Level-1 machine in VMWARE, it obtains an ip addre
 
 Issue "ifconfig" command on the Attacker machine and note down the subnet of your network:
 
-```markdown
+
 ![Image](https://github.com/vandanarach/TCM-Courses/docs/PracticalEthicalHacking/images/zero.jpg)
-```
+
 
 Perform an ARP scan using the following netdiscover command:
 
-```markdown
+
 ![Image](https://github.com/vandanarach/TCM-Courses/docs/PracticalEthicalHacking/images/one.jpg)
-``` 
+ 
