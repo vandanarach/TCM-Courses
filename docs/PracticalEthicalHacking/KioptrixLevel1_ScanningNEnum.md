@@ -1,4 +1,7 @@
-#Scanning and Enumeration Kioptrix Level 1
+# Scanning and Enumeration Kioptrix Level 1
+=================================================
+
+
 
 After powering up the Kioptrix Level-1 machine in VMWARE, it obtains an ip address through DHCP with NAT enabled on the VM.
 
