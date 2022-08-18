@@ -92,9 +92,9 @@ Google is our best tool for researching on the potential vulnerabilities and the
 
 1. We can first google for the port 80/443 vulnerabilities based on Apache mod_ssl 2.8.4 version and we came across the following exploits:
 
-![Link](https://www.exploit-db.com/exploits/764)
+[Link](https://www.exploit-db.com/exploits/764)
 
-![Link](https://github.com/heltonWernik/OpenLuck)
+[Link](https://github.com/heltonWernik/OpenLuck)
 
 In addition to this, searchsploit reveals a couple of exploits:
 
@@ -103,11 +103,11 @@ In addition to this, searchsploit reveals a couple of exploits:
 
 2. Next we can google for the Samba server version that we detected using Metasploit auxillary scanner for version 2.2.1a. The following exploits were found:
 
-![Link](https://www.exploit-db.com/exploits/10)
+[Link](https://www.exploit-db.com/exploits/10)
 
-![Link](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
+[Link](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
 
-![Link](https://www.exploit-db.com/exploits/7)
+[Link](https://www.exploit-db.com/exploits/7)
 
 
 And searchsploit listed the following output:
@@ -123,5 +123,5 @@ This concludes this blog. In the next blog we shall see Vulnerability Scanning u
 
 
 
-![Link]()
+[Link]()
 
