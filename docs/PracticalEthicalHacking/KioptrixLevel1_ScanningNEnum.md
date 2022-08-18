@@ -125,6 +125,6 @@ This concludes this blog. In the next blog we shall see Vulnerability Scanning u
 
 
 
-
-#### [Vulnerability Scanning using Nessus](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/VulnNessus.html)
+#### <<- [Practical Ethical Hacking](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/peh.html) 
+#### ->> [Vulnerability Scanning using Nessus](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/VulnNessus.html)
 
