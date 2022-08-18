@@ -92,9 +92,12 @@ Google is our best tool for researching on the potential vulnerabilities and the
 
 We can first google for the port 80/443 vulnerabilities based on Apache mod_ssl 2.8.4 version and we came across the following exploits:
 
-	[Link to Exploit from Exploit-db](https://www.exploit-db.com/exploits/764)
 
-	[Link to Github Exploit](https://github.com/heltonWernik/OpenLuck)
+[Link to Exploit from Exploit-db](https://www.exploit-db.com/exploits/764)
+
+
+[Link to Github Exploit](https://github.com/heltonWernik/OpenLuck)
+
 
 In addition to this, searchsploit reveals a couple of exploits:
 
@@ -103,11 +106,11 @@ In addition to this, searchsploit reveals a couple of exploits:
 
 Next we can google for the Samba server version that we detected using Metasploit auxillary scanner for version 2.2.1a. The following exploits were found:
 
-	[Link to Exploit-db exploit](https://www.exploit-db.com/exploits/10)
- 
-	[Link to trans2open rapid7 exploit using metasploit](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
+[Link to Exploit-db exploit](https://www.exploit-db.com/exploits/10)
 
-	[Link to another Exploit-db exploit](https://www.exploit-db.com/exploits/7)
+[Link to trans2open rapid7 exploit using metasploit](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
+
+[Link to another Exploit-db exploit](https://www.exploit-db.com/exploits/7)
 
 
 And searchsploit listed the following output:
@@ -123,5 +126,5 @@ This concludes this blog. In the next blog we shall see Vulnerability Scanning u
 
 
 
-[Link]()
+#### [Vulnerability Scanning using Nessus](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/VulnNessus.html)
 
