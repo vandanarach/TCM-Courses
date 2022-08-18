@@ -67,9 +67,15 @@ Tried login to the SMB server with anonymous login and found that there are 2 sh
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/10.jpg)
 
 
+We can use Metasploit for SMB Auxillary scanner to enumerate the version of Samba:
+
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/10.5.jpg)
+
+
 
 
 ## Enumerating SSH
+
 
 Enumerating SSH is as much as just trying to login to SSH port on the target as in some cases we would get a login banner that can help us with some information due to disclosure. Here we found that since the machine is an old one, the algorithms and the cipher were not matching and we had to enter them manually to try and login. 
 
@@ -81,4 +87,41 @@ Enumerating SSH is as much as just trying to login to SSH port on the target as 
 
 ## Researching Potential Vulnerabilities
 
+
+Google is our best tool for researching on the potential vulnerabilities and then followed by searchsploit.
+
+1. We can first google for the port 80/443 vulnerabilities based on Apache mod_ssl 2.8.4 version and we came across the following exploits:
+
+![Link](https://www.exploit-db.com/exploits/764)
+
+![Link](https://github.com/heltonWernik/OpenLuck)
+
+In addition to this, searchsploit reveals a couple of exploits:
+
+![Image]((https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/12.jpg)
+
+
+2. Next we can google for the Samba server version that we detected using Metasploit auxillary scanner for version 2.2.1a. The following exploits were found:
+
+![Link](https://www.exploit-db.com/exploits/10)
+
+![Link](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
+
+![Link](https://www.exploit-db.com/exploits/7)
+
+
+And searchsploit listed the following output:
+
+![Image]((https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/13.jpg)
+
+
+This concludes this blog. In the next blog we shall see Vulnerability Scanning using Nessus. See you there!
+
+
+
+
+
+
+
+![Link]()
 
