@@ -98,7 +98,7 @@ Google is our best tool for researching on the potential vulnerabilities and the
 
 In addition to this, searchsploit reveals a couple of exploits:
 
-![Image]((https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/12.jpg)
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/12.jpg)
 
 
 2. Next we can google for the Samba server version that we detected using Metasploit auxillary scanner for version 2.2.1a. The following exploits were found:
@@ -112,7 +112,7 @@ In addition to this, searchsploit reveals a couple of exploits:
 
 And searchsploit listed the following output:
 
-![Image]((https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/13.jpg)
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/13.jpg)
 
 
 This concludes this blog. In the next blog we shall see Vulnerability Scanning using Nessus. See you there!
