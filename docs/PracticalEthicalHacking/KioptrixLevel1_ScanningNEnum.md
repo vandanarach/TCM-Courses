@@ -26,9 +26,11 @@ From the arp scan identify the ip address of the Kioptrix machine and perform an
 
 In the nmap scan we found many open ports like 22, 80, 111, 443, 139, 32768. 
 
+
+
 ## Lets begin by enumerating ports 80 and 443.
 
-To get started with, open the port 80 page of the webserver on the target and try to navigate a couple of links on the home page. Observede information disclosure of Apache version. Also concluded that Apache uses php from knowledge and so tried running a couple of tools on port 80 of the target. Ran Nikto to enumerate port 80 and also ran Dirbuster for directory enumeration on port 80 of the target.
+To get started with, open the http page on port 80 of the webserver on the target and try to navigate a couple of links on the home page. Observed information disclosure of Apache version on one of the pages. Also concluded that Apache uses php from knowledge and so tried running a couple of tools on port 80 of the target. Ran Nikto for application enumeration and also ran Dirbuster for directory enumeration on port 80 of the target.
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/4.jpg)
 
@@ -47,6 +49,21 @@ The screenshot of the Webalizer information disclosure is given at the below scr
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/8.jpg)
 
+
+
+
 ## Next lets enumerate SMB on the target.
+
+
+From the nmap scan we can see that SMB version 2 is running however we are not really sure as of now. However when we run enum4linux tool on the target we see that anonymous login is allowed.
+
+So we can try connecting to the SMB server on the target using anonymous login.
+
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/9.jpg)
+
+Tried login to the SMB server with anonymous login and found that there are 2 shares available on server, IPC$ and ADMIN$. We were able to login to IPC$ with anonymous login but could not get further. With ADMIN$ share we were kicked out of trying to login itself.
+
+
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/10.jpg)
 
 
