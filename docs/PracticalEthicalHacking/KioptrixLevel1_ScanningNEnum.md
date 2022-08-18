@@ -52,7 +52,7 @@ The screenshot of the Webalizer information disclosure is given at the below scr
 
 
 
-## Next lets enumerate SMB on the target.
+## Enumerating SMB
 
 
 From the nmap scan we can see that SMB version 2 is running however we are not really sure as of now. However when we run enum4linux tool on the target we see that anonymous login is allowed.
@@ -65,5 +65,20 @@ Tried login to the SMB server with anonymous login and found that there are 2 sh
 
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/10.jpg)
+
+
+
+
+## Enumerating SSH
+
+Enumerating SSH is as much as just trying to login to SSH port on the target as in some cases we would get a login banner that can help us with some information due to disclosure. Here we found that since the machine is an old one, the algorithms and the cipher were not matching and we had to enter them manually to try and login. 
+
+
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/11.jpg)
+
+
+
+
+## Researching Potential Vulnerabilities
 
 
