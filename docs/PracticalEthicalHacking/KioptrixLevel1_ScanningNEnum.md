@@ -90,7 +90,7 @@ Enumerating SSH is as much as just trying to login to SSH port on the target as 
 
 Google is our best tool for researching on the potential vulnerabilities and then followed by searchsploit.
 
-1. We can first google for the port 80/443 vulnerabilities based on Apache mod_ssl 2.8.4 version and we came across the following exploits:
+We can first google for the port 80/443 vulnerabilities based on Apache mod_ssl 2.8.4 version and we came across the following exploits:
 
 [Link to Exploit from Exploit-db](https://www.exploit-db.com/exploits/764)
 
@@ -101,7 +101,7 @@ In addition to this, searchsploit reveals a couple of exploits:
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/12.jpg)
 
 
-2. Next we can google for the Samba server version that we detected using Metasploit auxillary scanner for version 2.2.1a. The following exploits were found:
+Next we can google for the Samba server version that we detected using Metasploit auxillary scanner for version 2.2.1a. The following exploits were found:
 
 [Link to Exploit-db exploit](https://www.exploit-db.com/exploits/10)
  
