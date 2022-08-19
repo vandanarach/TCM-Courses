@@ -24,6 +24,6 @@ In the next blog we shall see how to exploit and gain access using manual method
 
 
 #### <i class="fa-solid fa-circle-arrow-left"></i> [Practical Ethical Hacking](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixLevel1_ScanningNEnum.html)
-#### <i class="fa-solid fa-circle-arrow-right"></i> [Vulnerability Scanning using Nessus](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootManual.html)
+#### <i class="fa-solid fa-circle-arrow-right"></i> [Kioptrix - Gain Root Using Manual Methods](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootManual.html)
 
 
