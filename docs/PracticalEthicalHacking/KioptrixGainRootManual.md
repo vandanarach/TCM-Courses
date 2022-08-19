@@ -51,9 +51,9 @@ Download the file from above location:
 
 After this create a local copy of 764.c file and edit the line in the C file that has wget by replacing the link for ptrace-kmod.c with the local path on the attack machine where we downloaded the file to. Start a python http server using the command "python3 -m http.server 8000". Recompile the local C file and rerun the exploit as shown below:
 
-![Image]((https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/20.png)
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/20.png)
 
-![Image]((https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/21.png)
+![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/21.png)
 
 
 WE have successfully rooted Kioptrix Level 1 box!
