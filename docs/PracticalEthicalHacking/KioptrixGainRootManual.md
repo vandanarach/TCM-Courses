@@ -35,6 +35,9 @@ c. Replace unsigned char *p, *end; with const unsigned char *p, *end;
 
 4. Instead of installing libssl-dev, use the updated package of libssl1.0-dev
 
+``` apt-get install libssl1.0-dev 
+```
+
 After making the above changes compile the new program and execute it.
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/18.png)

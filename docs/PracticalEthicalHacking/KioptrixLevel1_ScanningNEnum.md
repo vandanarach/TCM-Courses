@@ -126,5 +126,5 @@ This concludes this blog. In the next blog we shall see Vulnerability Scanning u
 
 
 #### <i class="fa-solid fa-circle-arrow-left"></i> [Practical Ethical Hacking](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/peh.html) 
-#### <i class="fa-solid fa-circle-arrow-right"></i> [Vulnerability Scanning using Nessus](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/VulnNessus.html)
+#### <i class="fa-solid fa-circle-arrow-right"></i> [Kioptrix Level 1 Gaining Root using Metasploit](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootMetasploit.html)
 
