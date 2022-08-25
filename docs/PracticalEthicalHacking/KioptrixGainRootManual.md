@@ -65,5 +65,5 @@ WE have successfully rooted Kioptrix Level 1 box!
 
 
 #### <i class="fa-solid fa-circle-arrow-left"></i> [Kioptrix Level 1 Gaining Root using Metasploit](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootMetasploit.html)
-####  <i class="fa-solid fa-circle-arrow-right"></i>[Eternal Blue Exploited!]((https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Blue.html)
+####  <i class="fa-solid fa-circle-arrow-right"></i>[Eternal Blue Exploited!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Blue.html)
 

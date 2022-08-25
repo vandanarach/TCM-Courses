@@ -10,4 +10,4 @@
 
 ## [Kioptrix - Gain Root Using Manual Methods](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootManual.html)
 
-## [Eternal Blue Exploited!]((https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Blue.html)
+## [Eternal Blue Exploited!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Blue.html)
