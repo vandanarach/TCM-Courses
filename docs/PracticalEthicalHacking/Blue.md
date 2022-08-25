@@ -68,7 +68,7 @@ Link to the github repository given below:
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/Blue/13.png)
 
-After that ran the shell_prep.sh file and generated the payload in raw format. Thereafter started the listener using listener_prep.sh. Then ran the python command for the exploiat and got the Blue Screen Of Death!
+After that ran the shell_prep.sh file and generated the payload in raw format. Thereafter started the listener using listener_prep.sh. Then ran the python command for the exploit and got the Blue Screen Of Death!
 
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/Blue/14.png)
@@ -80,6 +80,6 @@ After that ran the shell_prep.sh file and generated the payload in raw format. T
 
 
 
-#### <i class="fa-solid fa-circle-arrow-left"></i> [Kioptrix Level 1 Gain Root using Manual Method](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootManual.thtml)
+#### <i class="fa-solid fa-circle-arrow-left"></i> [Kioptrix Level 1 Gain Root using Manual Method](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootManual.html)
 ####  <i class="fa-solid fa-circle-arrow-right"></i>
 
