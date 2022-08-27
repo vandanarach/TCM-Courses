@@ -8,7 +8,9 @@ To discover the ip address of the target Academy machine, perform an arp-scan an
 
 Perform an nmap scan using the below command on the target ip of the Academy machine:
 
-```nmap -sV -A -v -p- 192.168.179.132
+```
+nmap -sV -A -v -p- 192.168.179.132
+
 ```
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/Academy/2.png)
@@ -41,13 +43,13 @@ On decrypting the has using an online tool observed that the login credentials w
 
 To enumerate port 80, ran dirbuster tool, searching for php files, as the homepage as per nmap scan "works" and thus reveals an apache server. The directory enumeration yields a lot of interesting dirs as shown below:
 
-
+```
 /academy/index.php
 /academy/admin/index.php
 /academy/includes/config.php
 /academy/admin/includes/config.php
 /phpmyadmin/index.php
-
+```
 
 
 ![Image](https://github.com/vandanarach/TCM-Courses/raw/main/docs/PracticalEthicalHacking/images/Academy/6.png)
