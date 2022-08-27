@@ -81,5 +81,5 @@ After that ran the shell_prep.sh file and generated the payload in raw format. T
 
 
 #### <i class="fa-solid fa-circle-arrow-left"></i> [Kioptrix Level 1 Gain Root using Manual Method](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/KioptrixGainRootManual.html)
-####  <i class="fa-solid fa-circle-arrow-right"></i>
+####  <i class="fa-solid fa-circle-arrow-right"></i>[Hacking Academy](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Academy.html)
 
