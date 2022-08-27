@@ -1,4 +1,4 @@
-# Hacking Academy
+# Hacking Academy!
 
 To discover the ip address of the target Academy machine, perform an arp-scan and ping to it to check reachablility.
 
@@ -149,5 +149,5 @@ Edited the backup.sh file for the bash commands on GTFO Bins and voila! successf
 
 
 #### <i class="fa-solid fa-circle-arrow-left"></i> [Eternal Blue Exploited!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Blue.html)
-####  <i class="fa-solid fa-circle-arrow-right"></i>
+####  <i class="fa-solid fa-circle-arrow-right"></i>[Hacking Dev!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Dev.html)
 

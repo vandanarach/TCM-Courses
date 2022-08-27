@@ -12,6 +12,8 @@
 
 ## [Eternal Blue Exploited!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Blue.html)
 
-## [Hacking Academy](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Academy.html)
+## [Hacking Academy!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Academy.html)
+
+## [Hacking Dev!](https://vandanarach.github.io/TCM-Courses/PracticalEthicalHacking/Dev.html)
 
 
